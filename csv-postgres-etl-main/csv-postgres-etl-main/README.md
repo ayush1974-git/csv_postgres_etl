@@ -306,15 +306,4 @@ Through this project, I gained hands-on experience designing and implementing a 
 
 ---
 
-## 👨‍💻 Author
 
-**Derrick Nyongesa**
-
-Electrical & Electronics Engineer | Data Engineer | Machine Learning Enthusiast
-
-### Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/derrick-nyongesa
-* GitHub: https://github.com/DECTEN0
-
-If you found this project useful, feel free to connect, provide feedback, or contribute to the repository.
